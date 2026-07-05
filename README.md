@@ -3,7 +3,7 @@
 > End-to-end data pipeline analyzing the companies leading the AI race: NVIDIA, AMD, Microsoft, Google, Meta, IBM and more.
 
 ## 🚀 Live Demo
-**[View the interactive app](https://ai-tech-landscape-pipeline-gbifk9ogj5hgclblbcyvjb.streamlit.app/)**
+**[View the interactive app](https://ai-tech-landscape-pipeline-ygdiezmxksbsv4x4z74hkw.streamlit.app/)**
 
 ---
 
