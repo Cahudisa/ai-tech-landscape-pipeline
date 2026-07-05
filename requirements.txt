@@ -1,6 +1,9 @@
-pandas==2.2.2
-pyarrow==16.1.0
-openpyxl==3.1.4
-jupyter==1.0.0
-streamlit==1.35.0
-plotly==5.22.0
+# Core dependencies (local + Streamlit Cloud)
+pandas                 # pandas==2.2.2
+pyarrow                # pyarrow==16.1.0
+openpyxl               # openpyxl==3.1.4
+streamlit              # streamlit==1.35.0
+plotly                 # plotly==5.22.0
+
+# Local development only (not needed in Streamlit Cloud)
+# jupyter==1.0.0
